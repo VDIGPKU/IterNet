@@ -13,6 +13,7 @@ IterVM repeatedly uses the high-level visual feature extracted at the previous i
 ```
 pip install -r requirements.txt
 ```
+Note: `fastai==1.0.60` is required.
 
 ## Datasets
 <details>
