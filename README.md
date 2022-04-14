@@ -102,6 +102,7 @@ Additional flags:
 - `--image_only` disable dumping visualization of attention masks
 
 ## Run Demo
+[<a href="https://colab.research.google.com/drive/1XmZGJzFF95uafmARtJMudPLLKBO2eXLv?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>](https://colab.research.google.com/drive/1XmZGJzFF95uafmARtJMudPLLKBO2eXLv?usp=sharing)
 
 ```
 python demo.py --config=configs/train_iternet.yaml --input=figures/demo
