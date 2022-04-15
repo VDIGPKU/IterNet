@@ -128,6 +128,9 @@ If you find our method useful for your reserach, please cite
  ```
 
 ## License
-This project is based on [ABINet](https://github.com/FangShancheng/ABINet.git) which is under the 2-clause BSD License - see the [LICENSE file](https://github.com/FangShancheng/ABINet/blob/main/LICENSE) for details.
+The project is only free for academic research purposes, but needs authorization for commerce. For commerce permission, please contact wyt@pku.edu.cn.
+
+## Acknowledgements
+This project is based on [ABINet](https://github.com/FangShancheng/ABINet.git).
 Thanks for their great works.
 
