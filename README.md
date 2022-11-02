@@ -122,7 +122,7 @@ If you find our method useful for your reserach, please cite
 @article{chu2022itervm,
   title={IterVM: Iterative Vision Modeling Module for Scene Text Recognition},
   author={Chu, Xiaojie and Wang, Yongtao},
-  journal={arXiv preprint arXiv:2204.02630},
+  journal={26th International Conference on Pattern Recognition (ICPR)},
   year={2022}
 }
  ```
